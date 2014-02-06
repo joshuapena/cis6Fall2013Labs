@@ -24,8 +24,6 @@ int main() {
   int data3;
   int data4;
 
-  printf("scott was here\n");
-
   displayClassInfoJoshuaP();
 
   displayMenu();
